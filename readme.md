@@ -1,4 +1,4 @@
-# BUs DETECTION API
+# BUS DETECTION API
 
 Step 1: Download the python installer from here:   https://www.python.org/downloads/release/python-370/
 
