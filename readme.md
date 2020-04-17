@@ -14,7 +14,7 @@ Step 4: Run the app.py file using:
 	
 Here 80 is the port number
 
-The application will display the path for the API endpoint which would be like:	"http://127.0.0.1:<PORT NUMBER>/status"
+The application will display the path for the API endpoint which would be like:	"http://127.0.0.1:PORT_NUMBER/status"
 
 
 There's a test_call.py in the folder that demonstrates how I use python to make the POST request
