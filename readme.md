@@ -5,12 +5,14 @@ Step 1: Download the python installer from here:   https://www.python.org/downlo
 Step 2: Follow these instructions to install:   https://www.itnota.com/install-python-windows-server/
 
 Step 3: Now go to the extracted folder and install the dependencies using pip command:
-	pip install -r requirements.txt
 	
-	This will download all the dependencies
+	pip install -r requirements.txt
 
-Step 4: Run the app.py file using: 	python app.py 80
-	Here 80 is the port number
+Step 4: Run the app.py file using: 
+
+	python app.py 80
+	
+Here 80 is the port number
 
 The application will display the path for the API endpoint which would be like:	"http://127.0.0.1:<PORT NUMBER>/status"
 
